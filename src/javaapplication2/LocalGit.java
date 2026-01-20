@@ -12,6 +12,8 @@ public class LocalGit {
     //add some data members
     private int age;
     private String name;
+    public void getData(){}
+    public void dispalyData(){}
     
     
 }
