@@ -9,5 +9,8 @@ package javaapplication2;
  * @author sangh
  */
 public class LocalGit {
+    //add some data members
+    private int age;
+    
     
 }
