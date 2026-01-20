@@ -12,8 +12,11 @@ public class LocalGit {
     //add some data members
     private int age;
     private String name;
-    public void getData(){}
-    public void dispalyData(){}
+    public void getData(){
+    
+    System.out.print("This is a test branch");
+    }
+    public void dispalyData(){ System.out.print("This is a test branch");}
     
     
 }
