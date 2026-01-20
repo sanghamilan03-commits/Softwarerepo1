@@ -11,6 +11,7 @@ package javaapplication2;
 public class LocalGit {
     //add some data members
     private int age;
+    private String name;
     
     
 }
