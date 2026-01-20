@@ -14,7 +14,7 @@ public class LocalGit {
     private String name;
     public void getData(){
     
-    System.out.print("This is a test branch");
+  
     }
     public void dispalyData(){ System.out.print("This is a test branch");}
     
